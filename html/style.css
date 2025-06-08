@@ -200,11 +200,14 @@ table {
     flex-direction: column;
     align-items: center;
   }
-  .topic li {
+  .topic img {
     max-width: 75%;
   }
   .topic li {
     max-width: 75%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
   }
 }
 
@@ -218,6 +221,8 @@ table {
   }
   .topic li {
     max-width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
   }
 }
 
@@ -472,11 +477,11 @@ table {
   }
 
   .contact a {
-    font-size: 50%;
+    font-size: 70%;
   }
 
   .contact img {
-    max-width: 75%;
+    max-width: 80%;
   }
 
   .media {
@@ -492,7 +497,7 @@ table {
   }
 
   .contact a {
-    font-size: 70%;
+    font-size: 100%;
   }
 
   .contact img {
